@@ -13,8 +13,8 @@
   - cronの設定
     - tw-post.phpにパラメーター付き（user）で処理をキックするように設定する(一分間がベスト)。
 # 前提条件  
-- TwitterOAuthのライブラリがvendorディレクトリの中に入っていること。
-- Twittwer API V2の申請 各種API取得済
+- TwitterOAuthのライブラリがvendorディレクトリの中に入っていること(githubにディレクトリ存在しません)。
+- Twittwer API V2の申請 各種API Key取得済
 
 # 画面 
 ![SnapCrab_NoName_2022-10-5_16-10-21_No-00](https://user-images.githubusercontent.com/71550806/194001708-1ec61232-f379-4f60-83e7-6be1b3ecc7e5.png)
