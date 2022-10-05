@@ -11,7 +11,7 @@
 # 使用方法  
 - data/tw-config-v2.phpを設定後、index.phpをブラウザで開き使用する。
   - cronの設定
-    - tw-post.phpにパラメーター付き（user）でキックするように設定する(一分間がベスト)。
+    - tw-post.phpにパラメーター付き（user）でキックするように設定する(一分間隔がベスト)。
 # 前提条件  
 - TwitterOAuthのライブラリがvendorディレクトリの中に入っていること(githubにディレクトリ存在しません)。
 - Twittwer API V2の申請 各種API Key取得済
